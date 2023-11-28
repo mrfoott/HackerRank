@@ -1,9 +1,8 @@
 package Algorithms;
 
-import java.io.*;
 import java.util.*;
 
-public class WarmUp_1 {
+public class SolveMeFirst_1 {
     public static void solveMeFirst(int a, int b) {
         System.out.println(a + b);
     }
