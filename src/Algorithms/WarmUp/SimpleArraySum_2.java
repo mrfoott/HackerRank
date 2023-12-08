@@ -1,8 +1,7 @@
-package Algorithms;
+package Algorithms.WarmUp;
 
 import java.util.*;
 
-import static Algorithms.SimpleArraySum_2.simpleArraySum;
 import static java.util.stream.Collectors.joining;
 
 public class SimpleArraySum_2 {

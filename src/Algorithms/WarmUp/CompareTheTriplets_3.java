@@ -1,4 +1,4 @@
-package Algorithms;
+package Algorithms.WarmUp;
 
 import java.util.*;
 
